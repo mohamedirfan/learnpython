@@ -35,8 +35,6 @@
     #ensure to clean, lock your vehicle when you leave the vehicle in the home
     #plan for some other alternative journey
 
-print("1. Fundamendals of Exception Handling")
-print("a. Exception handling blocks in python-  try, except, else, finally, try is mandatory, except/finally is mandatory, else is optional")
 try:
     a="ten"
     if isinstance(a,int):
